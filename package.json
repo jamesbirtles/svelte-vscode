@@ -71,7 +71,6 @@
                 "language": "svelte",
                 "scopeName": "source.svelte",
                 "path": "./syntaxes/svelte.tmLanguage.json",
-                "text.html": "html",
                 "embeddedLanguages": {
                     "text.html": "html",
                     "source.css": "css",
