@@ -70,7 +70,13 @@
             {
                 "language": "svelte",
                 "scopeName": "source.svelte",
-                "path": "./syntaxes/svelte.tmLanguage.json"
+                "path": "./syntaxes/svelte.tmLanguage.json",
+                "text.html": "html",
+                "embeddedLanguages": {
+                    "text.html": "html",
+                    "source.css": "css",
+                    "source.js": "javascript"
+                }
             }
         ]
     },
