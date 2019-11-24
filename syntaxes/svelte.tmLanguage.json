@@ -306,7 +306,7 @@
             ]
         },
         {
-            "begin": "(<)(script)\\b(?=[^>]*(?:type=('text/coffee'|\"text/coffee\")|lang=(coffee|'coffee'|\"coffee\")))(?![^/>]*/>\\s*$)",
+            "begin": "(<)(script)\\b(?=[^>]*(?:type=('text/coffee(script)?'|\"text/coffee(script)?\")|lang=(coffee(script)?|'coffee(script)?'|\"coffee(script)?\")))(?![^/>]*/>\\s*$)",
             "beginCaptures": {
                 "1": {
                     "name": "punctuation.definition.tag.begin.html"
