@@ -1,3 +1,5 @@
+# Work is being continued in the official [svelte language-tools repo](https://github.com/sveltejs/language-tools)
+
 # Svelte for VS Code
 
 Provides syntax highlighting and rich intellisense for Svelte components in VS Code, utilising the [svelte language server](https://github.com/UnwrittenFun/svelte-language-server).
